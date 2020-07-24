@@ -1,3 +1,3 @@
 # ML-mipt2020
 
-ML MIPT homework 2020
+MIPT ML homework 2020
